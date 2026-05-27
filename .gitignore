@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+.pytest_cache/
+
+# 회사/개인 프로젝트 민감 정보
+.claude/docs/
+.claude/assets/
+.playwright-mcp/
